@@ -1,0 +1,20 @@
+{
+  "name": "colts",
+  "version": "1.0.0",
+  "description": "A JavaScript library that converts nested JSON structures into a compact columnar table format. SCOLT dramatically reduces data size by identifying and reusing duplicate objects across your data structures.",
+  "homepage": "https://github.com/possiblearyal/colts#readme",
+  "bugs": {
+    "url": "https://github.com/possiblearyal/colts/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/possiblearyal/colts.git"
+  },
+  "license": "MIT",
+  "author": "sambhav",
+  "type": "module",
+  "main": "scolt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

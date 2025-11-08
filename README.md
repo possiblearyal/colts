@@ -2,7 +2,7 @@
 
 ![SCOLT Banner](./assets/banner.png)
 
-**C**ompact **O**bject **L**ayout with **T**abular **S**erialization
+**S**tructured **COL**umnar **T**able
 
 A JavaScript library that converts nested JSON structures into a compact columnar table format. SCOLT dramatically reduces data size by identifying and reusing duplicate objects across your data structures.
 
